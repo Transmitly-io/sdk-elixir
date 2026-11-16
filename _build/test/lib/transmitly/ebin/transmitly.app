@@ -5,4 +5,4 @@
               {modules,['Elixir.Transmitly','Elixir.Transmitly.Client',
                         'Elixir.Transmitly.Error']},
               {registered,[]},
-              {vsn,"1.0.0"}]}.
+              {vsn,"1.0.1"}]}.
